@@ -112,9 +112,18 @@ A service restart is required if service utilization for the `_sfe` or `_stream`
 
 ### Approach used:
 
-My approach for this section was to determine which notes were relevant for admin and technical support operations. I categorized the guide additions into subsections (Server Installation, Configuration & Management) to communicate the changes sequentially and improve clarity for support teams.
-
-I recommend adding further information about the server build process, as WebSockets installations will likely be standardized, and some insight at this point would add clarity. I elaborated upon the available server configuration notes, providing more background into the changes, as I worked on the basis that this was a new configuration for the admin team.
+> My approach for this section was to determine which notes were
+> relevant for admin and technical support operations. I categorized the
+> guide additions into subsections (Server Installation, Configuration &
+> Management) to communicate the changes sequentially and improve
+> clarity for support teams.
+> 
+> I recommend adding further information about the server build process,
+> as WebSockets installations will likely be standardized, and some
+> insight at this point would add clarity. I elaborated upon the
+> available server configuration notes, providing more background into
+> the changes, as I worked on the basis that this was a new
+> configuration for the admin team.
 
 ----------
 
@@ -171,8 +180,17 @@ When using SFE, ensure that your configuration listens to **port 200** to receiv
 
 ----------
 
-### Approach used:
-
-For this section, I included any information related to the external use of the API. I introduced WebSockets to provide insight for developers who may be more familiar with methods such as REST. To improve readability, I then categorized the new changes under subsections (Authentication, Connecting to the API & Working with the API).
-
-I recommend adding further information about how to connect to the endpoint and work with the API, in the form of tutorials to link to for common scenarios. I would also recommend including information about how user groups are determined and approved for the use of the API.
+> ### Approach used:
+> 
+> For this section, I included any information related to the external
+> use of the API. I introduced WebSockets to provide insight for
+> developers who may be more familiar with methods such as REST. To
+> improve readability, I then categorized the new changes under
+> subsections (Authentication, Connecting to the API & Working with the
+> API).
+> 
+> I recommend adding further information about how to connect to the
+> endpoint and work with the API, in the form of tutorials to link to
+> for common scenarios. I would also recommend including information
+> about how user groups are determined and approved for the use of the
+> API.
