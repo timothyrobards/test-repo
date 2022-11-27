@@ -14,14 +14,14 @@
 	    - [Streaming API Server Installation](#streaming-api-server-installation)
 	    - [Streaming API Server Configuration](#streaming-api-server-configuration)
 	    - [Streaming API Server Management](#streaming-api-server-management)
-    - [Approach used](#approach-used-2)
+    - [Approach used](#approach-used-1)
 3. [WidgetApp API Guide](#widgetapp-api-guide)
     - [What’s new for WidgetApp Developers](#what’s-new-for-widgetapp-developers)
 	    - [Introducing the Streaming API](#introducing-the-streaming-api)
 	    - [Authentication](#authentication)
 	    - [Connecting to the Streaming API](#connecting-to-the-streaming-api)
 	    - [Working with the Streaming API](#working-with-the-streaming-api)
-    - [Approach used](#approach-used-3)
+    - [Approach used](#approach-used-2)
 
 # WidgetApp User Guide
 
