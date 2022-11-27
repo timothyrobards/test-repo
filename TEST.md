@@ -4,8 +4,8 @@
 
 ### Table of contents:
 1. [WidgetApp User Guide](#widgetapp-user-guide)
-    - [What’s new in WidgetApp](###what’s-new-in-widgetapp)
-	    - [Introducing multiple-user support](####introducing-multiple-user-support)
+    - [What’s new in WidgetApp](#what’s-new-in-widgetapp)
+	    - [Introducing multiple-user support](#introducing-multiple-user-support)
 	    - [An all-new Streaming API](####an-all-new-streaming-api)
     - [Approach used](###approach-used)
 2. [WidgetApp Administrator Guide](#widgetapp-administrator-guide)
