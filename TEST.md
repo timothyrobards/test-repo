@@ -37,15 +37,20 @@ WidgetApp now allows multiple users to work collaboratively on design projects. 
 
 The WidgetApp Streaming API is now available for developers. To learn more, see the [WidgetApp API guide](http://www.example.com).
 
-----------
-
 ### Approach used:
 
-For this section, I decided to emphasize the new project collaboration feature, as this is the primary feature affecting both the product UI and UX for users. Additionally, I found it relevant to mention the Streaming API. Despite being technical, I felt it was helpful to reference in the user guide.
-
-Most of the notes leaned toward behind-the-scenes changes, and I’d recommend a few additions, such as linking to a basic tutorial showing how collaboration works in the UI. For the user guide, a series of screenshots would help users visualize the changes. Ideally, a video or GIF image demonstrating users working collaboratively would significantly enhance the communication of these changes.
-
-----------
+> For this section, I decided to emphasize the new project collaboration
+> feature, as this is the primary feature affecting both the product UI
+> and UX for users. Additionally, I found it relevant to mention the
+> Streaming API. Despite being technical, I felt it was helpful to
+> reference in the user guide.
+> 
+> Most of the notes leaned toward behind-the-scenes changes, and I’d
+> recommend a few additions, such as linking to a basic tutorial showing
+> how collaboration works in the UI. For the user guide, a series of
+> screenshots would help users visualize the changes. Ideally, a video
+> or GIF image demonstrating users working collaboratively would
+> significantly enhance the communication of these changes.
 
 # WidgetApp Administrator Guide
 
@@ -108,8 +113,6 @@ A service restart is required if service utilization for the `_sfe` or `_stream`
 
  A single SFE process is the default on startup, with an additional process started in parallel for every 10 Streaming API clients.
 
-----------
-
 ### Approach used:
 
 > My approach for this section was to determine which notes were
@@ -125,7 +128,6 @@ A service restart is required if service utilization for the `_sfe` or `_stream`
 > the changes, as I worked on the basis that this was a new
 > configuration for the admin team.
 
-----------
 
 # WidgetApp API Guide
 
@@ -178,10 +180,8 @@ When using SFE, ensure that your configuration listens to **port 200** to receiv
   
 **Note**: Most user actions (search, scrolling, etc.) will work by calling **ajax** endpoints.
 
-----------
+### Approach used:
 
-> ### Approach used:
-> 
 > For this section, I included any information related to the external
 > use of the API. I introduced WebSockets to provide insight for
 > developers who may be more familiar with methods such as REST. To
