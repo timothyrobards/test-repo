@@ -3,7 +3,7 @@
 # WidgetApp Challenge - Tim Robards
 
 ### Table of contents:
-1. [WidgetApp User Guide](#WidgetApp-User-Guide)
+1. [WidgetApp User Guide](#widgetapp-user-guide)
     - [What’s new in WidgetApp](###What’s-new-in-WidgetApp)
 	    - [Introducing multiple-user support](####Introducing-multiple-user-support)
 	    - [An all-new Streaming API](####An-all-new-Streaming-API)
