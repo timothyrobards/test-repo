@@ -113,6 +113,7 @@ A service restart is required if service utilization for the `_sfe` or `_stream`
 
  A single SFE process is the default on startup, with an additional process started in parallel for every 10 Streaming API clients.
 
+
 > ### Approach used:
 > 
 > My approach for this section was to determine which notes were
