@@ -1,22 +1,20 @@
-
-
 # WidgetApp Challenge - Tim Robards
 
 ### Table of contents:
 1. [WidgetApp User Guide](#widgetapp-user-guide)
-    - [What’s new in WidgetApp](#what’s-new-in-widgetapp)
+    - [What’s new in WidgetApp](#whats-new-in-widgetapp)
 	    - [Introducing multiple-user support](#introducing-multiple-user-support)
 	    - [An all-new Streaming API](#an-all-new-streaming-api)
     - [Approach used](#approach-used)
 2. [WidgetApp Administrator Guide](#widgetapp-administrator-guide)
-    - [What’s new in the WidgetApp Administrator Guide](#what’s-new-in-the-widgetapp-administrator-guide)
+    - [What’s new in the WidgetApp Administrator Guide](#whats-new-in-the-widgetapp-administrator-guide)
 	    - [New Streaming API](#new-streaming-api)
 	    - [Streaming API Server Installation](#streaming-api-server-installation)
 	    - [Streaming API Server Configuration](#streaming-api-server-configuration)
 	    - [Streaming API Server Management](#streaming-api-server-management)
     - [Approach used](#approach-used-1)
 3. [WidgetApp API Guide](#widgetapp-api-guide)
-    - [What’s new for WidgetApp Developers](#what’s-new-for-widgetapp-developers)
+    - [What’s new for WidgetApp Developers](#whats-new-for-widgetapp-developers)
 	    - [Introducing the Streaming API](#introducing-the-streaming-api)
 	    - [Authentication](#authentication)
 	    - [Connecting to the Streaming API](#connecting-to-the-streaming-api)
