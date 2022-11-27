@@ -36,7 +36,7 @@ WidgetApp now allows multiple users to work collaboratively on design projects. 
 #### An all-new Streaming API
 
 The WidgetApp Streaming API is now available for developers. To learn more, see the [WidgetApp API guide](http://www.example.com).
-
+<br>
 > ### Approach used:
 > 
 > For this section, I decided to emphasize the new project collaboration
@@ -112,7 +112,7 @@ A service restart is required if service utilization for the `_sfe` or `_stream`
 **Note**: SFE restarts will terminate `_stream` processes automatically for any existing connections.
 
  A single SFE process is the default on startup, with an additional process started in parallel for every 10 Streaming API clients.
-
+<br>
 > ### Approach used:
 > 
 > My approach for this section was to determine which notes were
@@ -179,7 +179,7 @@ When connected to the API, event listeners should be created for the following e
 When using SFE, ensure that your configuration listens to **port 200** to receive stream messages from the `widgetApp_useraction_` APIs. Such as `widgetApp_useraction_refresh()`,  `widgetApp_useraction_edit()`, etc.  
   
 **Note**: Most user actions (search, scrolling, etc.) will work by calling **ajax** endpoints.
-
+<br>
 > ### Approach used:
 > 
 > For this section, I included any information related to the external
